@@ -18,6 +18,7 @@
     ```
 
 Результат выполнения задания показан на рисунке ниже.
+
 ![](screenshot1.jpg)
 
 Ссылка на образ с Python-приложением в Docker Hub: [torshin5ergey/1tdata-do_2024-08-28_6.11-04-app](https://hub.docker.com/repository/docker/torshin5ergey/1tdata-do_2024-08-28_6.11-04-app/general)
